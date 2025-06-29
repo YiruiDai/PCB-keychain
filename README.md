@@ -3,7 +3,7 @@
 This is a keychain with an LED that flashes with the push of a button!
 
 ## Schematic
-![image](https://github.com/user-attachments/assets/2d8d8bbd-56cd-488f-a3d3-d31ed6ff9c18)
+![image](https://github.com/user-attachments/assets/71aae21d-9310-45b9-9587-2ee6812afb4a)
 
 ## PCB
 ![image](https://github.com/user-attachments/assets/88128b35-9e84-419d-81c0-8b90392dbd8b)
