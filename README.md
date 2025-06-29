@@ -15,7 +15,7 @@ This is a keychain with an LED that flashes with the push of a button!
 2 NPN Transistor\
 6 220 Resistor\
 1 LED\
-1 Push button\
+1 Push button
 
 
 Made by @Yirui on Slack
