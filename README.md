@@ -11,8 +11,8 @@ This is a keychain with an LED that flashes with the push of a button!
 
 ## BOM
 2 Battery holder\
-2 uF Capacitor
-2 NPN Transistor
-6 220 Resistor
-1 LED
-1 Push button
+2 uF Capacitor\
+2 NPN Transistor\
+6 220 Resistor\
+1 LED\
+1 Push button\
